@@ -1,11 +1,7 @@
 /* Nested hover */
-$color-red: #FF0000;
-$color-green-light: #00FF00;
-
 button {
-  color: $color-red;
-
-  &:hover {
-    color: $color-green-light;
-  }
+	color: #FF0000;
+	&:hover {
+		color: #00FF00;
+	}
 }
